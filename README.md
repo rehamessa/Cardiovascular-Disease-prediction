@@ -1,1 +1,1 @@
-# Plant-Disease-Detection
+# Cardiovascular Disease prediction
