@@ -1,7 +1,5 @@
 # Cardiovascular Disease prediction
-<p align="center">
-  <img src="image/jZqpV51.png" />
-</p>
+
 
 > Dataset Link:- https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
  #### Content:-
